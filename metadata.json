@@ -1,0 +1,6 @@
+{
+  "name": "How Rare Is My Achievement?",
+  "description": "Calculate the rarity and prestige of your real-life accomplishments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
